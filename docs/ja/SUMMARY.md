@@ -4,27 +4,27 @@
 
 ## Quick Start
 
-* [あなたのPC画面をVR空間にしてみよう](quick-start/anatanopcwovrnishitemiyou.md)
-* [3DプロジェクターをVR空間にしてみよう](quick-start/3dpurojekutwovrnishitemiyou.md)
+* [あなたのPC画面をVR空間にしてみよう](quick-start/pc-screen-to-vr.md)
+* [3DプロジェクターをVR空間にしてみよう](quick-start/3d-projector-to-vr.md)
 
 ## Quick Start（開発者向け）
 
-* [Portalgraphアプリ作成チュートリアル](quick-startke/portalgraphapurichtoriaru.md)
+* [Portalgraphアプリ作成チュートリアル](quick-start-dev/app-tutorial.md)
 
 ## Portalgraphアプリの使い方
 
-* [カメラトラッキング設定ガイド](portalgraphapurinoi/kameratorakkingugaido.md)
-* [VIVEトラッカー設定ガイド](portalgraphapurinoi/vivetorakkgaido.md)
-* [3D設定](portalgraphapurinoi/3d-she-ding.md)
-* [外部モニター設定方法](portalgraphapurinoi/monit.md)
-* [Portalgraphアプリ設定項目](portalgraphapurinoi/portalgraphapuri.md)
-* [カメラトラッキングアプリ設定項目](portalgraphapurinoi/kameratorakkinguapuri.md)
+* [カメラトラッキング設定ガイド](portalgraph-app/camera-tracking-guide.md)
+* [VIVEトラッカー設定ガイド](portalgraph-app/vive-tracker-guide.md)
+* [3D設定](portalgraph-app/3d-settings.md)
+* [外部モニター設定方法](portalgraph-app/external-monitor.md)
+* [Portalgraphアプリ設定項目](portalgraph-app/app-settings.md)
+* [カメラトラッキングアプリ設定項目](portalgraph-app/camera-tracking-app-settings.md)
 
 ## 開発者向けドキュメント
 
-* [ファイル構成](kedokyumento/fairu.md)
-* [設定項目](kedokyumento/she-ding-xiang-mu.md)
-* [トラッカーアプリ構築ガイド](kedokyumento/torakkapurigaido.md)
-* [URP用アナグリフレンダラー設定（必須）](kedokyumento/urpanagurifurendar.md)
-* [UI作成](kedokyumento/ui-zuo-cheng.md)
-* [自動サイズ調整](kedokyumento/saizu.md)
+* [ファイル構成](developer-docs/file-structure.md)
+* [設定項目](developer-docs/settings.md)
+* [トラッカーアプリ構築ガイド](developer-docs/tracker-app-guide.md)
+* [URP用アナグリフレンダラー設定（必須）](developer-docs/urp-anaglyph-renderer.md)
+* [UI作成](developer-docs/ui-creation.md)
+* [自動サイズ調整](developer-docs/auto-size-adjustment.md)

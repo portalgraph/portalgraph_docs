@@ -18,12 +18,12 @@ Portalgraphは、プロジェクターやPC画面でVR空間を楽しむUnity用
 
 Portalgraphを体験したい人向け
 
-{% content-ref url="quick-start/anatanopcwovrnishitemiyou.md" %}
-[anatanopcwovrnishitemiyou.md](quick-start/anatanopcwovrnishitemiyou.md)
+{% content-ref url="quick-start/pc-screen-to-vr.md" %}
+[pc-screen-to-vr.md](quick-start/pc-screen-to-vr.md)
 {% endcontent-ref %}
 
-{% content-ref url="quick-start/3dpurojekutwovrnishitemiyou.md" %}
-[3dpurojekutwovrnishitemiyou.md](quick-start/3dpurojekutwovrnishitemiyou.md)
+{% content-ref url="quick-start/3d-projector-to-vr.md" %}
+[3d-projector-to-vr.md](quick-start/3d-projector-to-vr.md)
 {% endcontent-ref %}
 
 Portalgraphアプリを作ってみたい人向け
