@@ -56,8 +56,8 @@ Portalgraphを表示する画面とPC本体のメイン画面が異なる場合�
 Pops Up\
 もしもチェックされてる場合、スクリーンより手前に映像が浮かび上がる。
 
-~~Screen Center Fixed~~\
-~~PortalgraphとVRヘッドセットで空間を同期する際にチェックを外す。編集不要~~
+~~Screen Center Matches Origin~~\
+~~チェックすると毎フレームScreenCenterをOriginに一致させる。手持ち式構成やPortalgraphとVRヘッドセットで空間を同期したい場合はチェックする。通常はチェックを外し、キャリブレーション後の位置に固定したままにする。編集不要~~
 
 Calibration Key Code\
 設定画面を開くボタン
@@ -89,7 +89,7 @@ Calibration Count Down SE\
 
 ScreenCenter\
 画面の中心になる座標を表すオブジェクト。カメラを移動させたい場合はこのオブジェクトを移動させる。\
-アタッチされているScreenCenterControllerはキーボードによる操作を行うので、不要な場合は非アクティブ化してください。
+アタッチされているScreenCenterControllerはキーボードによる操作を行うので、不要な場合は非アクティブ化してください。移動・回転に使用するキーはコンポーネントのInspectorで変更可能です（デフォルトはWASDRFで移動、QE/TG/ZCで回転、Shiftで低速移動、Ctrl+回転キーで90度スナップ回転）。
 
 Screens/Screen\
 各画面ごとの制御を行う。2画面目以降はこのオブジェクトがコピーして使用される。カメラに背景色、ポストエフェクト等を設定する場合は、Cameras以下のCameraオブジェクトに設定する。

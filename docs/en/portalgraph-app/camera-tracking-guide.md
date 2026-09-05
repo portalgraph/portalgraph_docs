@@ -8,25 +8,20 @@ description: >-
 
 ## Portalgraph Settings
 
-Run the application created with Portalgraph and open the settings menu (usually by pressing F12). Check the option for "Tracker App Auto Start," then select **Camera** from the dropdown menu below. This setting will automatically start the camera tracking software the next time the application is launched.
+Run the application created with Portalgraph and open the settings menu (usually by pressing F12). The settings screen has two tabs, **Camera** and **Tracker** — select the **Camera** tab to track with a webcam.\
+(The screenshots below are from the version before the tab split; the steps have been rewritten for the current Camera tab.)
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-Select **EyeCenter** as the tracker position, then click **Apply**. If the eye coordinates and eye rotation values are all set to zero, no further configuration is needed.
-
-
+If you are using a built-in webcam positioned just above a standard 16:9 monitor, enter the screen size (in inches) on the Camera tab and click **OK** to apply — that's all you need to do. Tracker App Auto Start and the tracker position (equivalent to **EyeCenter**) are now configured automatically when you apply, so there's no need to set those separately.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Click **Next** to proceed to the calibration screen, then click **Camera**.
-
 <figure><img src="../.gitbook/assets/Screenshot 2024-11-09 160124.png" alt=""><figcaption></figcaption></figure>
-
-If you are using a built-in webcam positioned just above a standard 16:9 monitor, enter the screen size in the camera tracking settings screen and click **OK**.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-11-09 160131.png" alt=""><figcaption></figcaption></figure>
 
-If this is not the case, check **Advanced Mode**, then manually enter the screen size and specify the camera’s coordinates and angles. For the XYZ axes, positive directions are upward, to the right, and foward, respectively, relative to the screen.
+If this is not the case, check **Advanced Mode**, then manually enter the screen size and specify the camera’s coordinates and angles. For the XYZ axes, positive directions are upward, to the right, and foward, respectively, relative to the screen. The same Camera tab also lets you switch the 3D display mode (Anaglyph, Side-By-Side, etc.), though Anaglyph is fine for most setups.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-11-09 160142.png" alt=""><figcaption></figcaption></figure>
 

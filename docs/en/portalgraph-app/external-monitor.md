@@ -13,7 +13,7 @@ In the **View Count** field on the right, enter the number of screens on which t
 **Click "Apply" to apply the values — changes will not take effect unless you click Apply. If the screen you are using changes, you will need to restart the application.**
 
 **Offset and Scale do not normally need to be edited. Skip the following unless you need to restrict the display area.**\
-Use these settings if you want to display the image in only part of the screen. Offset uses (0, 0) as the bottom-left and (1, 1) as the top-right; Scale ranges from 0 to 1 (same as Unity's camera viewport).
+Use these settings if you want to display the image in only part of the screen. Offset uses (0, 0) as the bottom-left and (1, 1) as the top-right; Scale ranges from 0 to 1 (same as Unity's camera viewport). Instead of typing the numbers directly, you can also adjust them visually with the arrow keys via **Screen Trimming** on the calibration screen.
 
 <figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 

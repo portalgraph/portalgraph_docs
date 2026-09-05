@@ -6,7 +6,7 @@ description: ヘッドトラッキングをVIVEトラッカーで行う際の設
 
 ## Portalgraph設定
 
-Portalgraphで制作されたアプリケーションを実行して設定画面を開き（標準ではF12キーで開く）、トラッカーアプリ自動起動にチェックし、その下のドロップダウンからOpenVRを選択すると、次回起動時に自動でVIVEトラッカー用トラッキングソフトが起動します。
+Portalgraphで制作されたアプリケーションを実行して設定画面を開き（標準ではF12キーで開く）、「トラッカー」タブを選択します。トラッカーアプリ自動起動にチェックし、その下のドロップダウンからOpenVRを選択すると、次回起動時に自動でVIVEトラッカー用トラッキングソフトが起動します。
 
 <figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
