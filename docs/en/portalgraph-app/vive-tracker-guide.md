@@ -6,7 +6,7 @@ description: This guide explains how to configure head tracking using a VIVE Tra
 
 ## Portalgraph Settings
 
-Launch an application built with Portalgraph and open the settings screen (by default, press F12), and select the **Tracker** tab. Check the "Auto-launch Tracker App" option, then select "OpenVR" from the dropdown below it. The VIVE Tracker tracking software will launch automatically the next time the application starts.
+Launch an application built with Portalgraph and open the settings screen (by default, press F12), and select the **Tracker/Custom** tab. Check the "Auto-launch Tracker App" option, then select "OpenVR" from the dropdown below it. The VIVE Tracker tracking software will launch automatically the next time the application starts.
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 

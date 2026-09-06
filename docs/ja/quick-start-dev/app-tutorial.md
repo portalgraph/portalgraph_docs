@@ -91,7 +91,7 @@ Portalgraphアプリケーションの実行にはPortalgraphランタイムの�
 
 <figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
-作成したアプリの画面に戻ると、初めてPortalgraphを実行する場合は、自動で設定画面が「カメラ」タブの状態で表示されるので（初めてではない場合はF12を押して「カメラ」タブを選択）、画面サイズを入力してOKを押して、設定画面を閉じます。
+作成したアプリの画面に戻ると、初めてPortalgraphを実行する場合は、自動で設定画面が「カメラ」タブの状態で表示されます（初めてではない場合はF12を押して「カメラ」タブを選択）。画面サイズを入力すれば設定完了です（フォーカスを外すと自動で反映されるので、ボタンを押す必要はありません）。設定画面を閉じます。
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 

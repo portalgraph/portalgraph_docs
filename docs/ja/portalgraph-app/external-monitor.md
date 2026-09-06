@@ -2,7 +2,7 @@
 
 PortalgraphでPCに接続された3Dプロジェクター等を使う際の設定方法を解説します。プロジェクターなど大きな画面を使う場合は、VIVEトラッカーを使用します。
 
-Portalgraphアプリケーションを実行中にF12キーを押すと設定画面が開きます。
+Portalgraphアプリケーションを実行中にF12キーを押すと設定画面が開きます。以下の項目は「トラッカー／カスタム」タブにあります。
 
 <figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 

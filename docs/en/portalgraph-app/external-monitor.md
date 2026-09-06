@@ -2,7 +2,7 @@
 
 This page explains how to configure Portalgraph when using a 3D projector or similar device connected to your PC. When using a large screen such as a projector, a VIVE Tracker is used for viewpoint tracking.
 
-Press **F12** while the Portalgraph application is running to open the settings screen.
+Press **F12** while the Portalgraph application is running to open the settings screen. The items below are on the **Tracker/Custom** tab.
 
 <figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 

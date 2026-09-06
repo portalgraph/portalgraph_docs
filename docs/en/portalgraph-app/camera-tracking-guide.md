@@ -13,7 +13,7 @@ Run the application created with Portalgraph and open the settings menu (usually
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-If you are using a built-in webcam positioned just above a standard 16:9 monitor, enter the screen size (in inches) on the Camera tab and click **OK** to apply — that's all you need to do. Tracker App Auto Start and the tracker position (equivalent to **EyeCenter**) are now configured automatically when you apply, so there's no need to set those separately.
+If you are using a built-in webcam positioned just above a standard 16:9 monitor, enter the screen size (in inches) on the Camera tab — that's all you need to do (it takes effect automatically once you move focus out of the field). Tracker App Auto Start and the tracker position (equivalent to **EyeCenter**) are also configured automatically at this point, so there's no need to set those separately.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

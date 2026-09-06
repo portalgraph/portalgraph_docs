@@ -41,7 +41,7 @@ description: >-
 * **Pops Up**\
   If checked, the image appears to float in front of the screen.
 * ~~**Screen Center Matches Origin**~~\
-  When checked, `ScreenCenter` is matched to `Origin` every frame — enable this for handheld setups or when synchronizing Portalgraph's space with a VR headset. Normally left unchecked, so the screen center stays fixed where it was calibrated. No editing required.
+  When checked, `ScreenCenter` is matched to `Origin` every frame (for handheld setups or syncing with a VR headset). Normally left unchecked, keeping the screen center fixed where it was calibrated. No editing required.
 * **Calibration Key Code**\
   Key used to open the settings screen.
 * ~~**Calibration Grid**~~\
@@ -64,7 +64,7 @@ description: >-
 <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **ScreenCenter**\
-  Object representing the center coordinates of the display. To move the camera, adjust this object’s position. The attached `ScreenCenterController` enables keyboard control; deactivate it if unnecessary. The move/rotate keys can be reassigned on the component's Inspector (defaults: WASDRF to move, QE/TG/ZC to rotate, Shift for slow movement, Ctrl + a rotate key for a 90° snap rotation).
+  Object representing the center coordinates of the display. To move the camera, adjust this object’s position. The attached `ScreenCenterController` enables keyboard control; deactivate it if unnecessary. The move/rotate keys can be reassigned on its Inspector.
 * **Screens/Screen**\
   Manages each screen individually. For multiple screens, the system copies this object for each additional screen. To set background color or post-effects, adjust the `Camera` objects under `Cameras`.
 * **Camera**\

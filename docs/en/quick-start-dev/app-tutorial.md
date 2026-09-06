@@ -95,7 +95,7 @@ Select the webcam to use from the camera dropdown and click **"Apply"** to begin
 
 <figure><img src="../.gitbook/assets/spaces_aJCTlOkQcgkhVMLcuHBm_uploads_CB72gJJtC3gZNAc2iyek_image.webp" alt=""><figcaption></figcaption></figure>
 
-Return to the screen of the app you created. If this is your first time running Portalgraph, the settings screen will appear automatically on the **Camera** tab. (If it does not appear, press F12 and select the **Camera** tab.) Enter the screen size, press **OK**, and close the settings screen.
+Return to the screen of the app you created. If this is your first time running Portalgraph, the settings screen will appear automatically on the **Camera** tab. (If it does not appear, press F12 and select the **Camera** tab.) Enter the screen size (it takes effect automatically once you move focus out of the field), then close the settings screen.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-11-09 160131.png" alt=""><figcaption></figcaption></figure>
 
