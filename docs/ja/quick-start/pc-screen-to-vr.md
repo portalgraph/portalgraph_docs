@@ -41,6 +41,8 @@ Portalgraphアプリケーションの初回起動時はカメラトラッキン
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+もし画面の中が歪んで見える場合は、「手動調整」をクリックすると、微調整が可能になります。モニターの中央真正ｋら見て、画面中心から出てる棒が真っ直ぐに見えるようにカーソルキー上下左右で調整して「OK」をクリックしてください。
+
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 「閉じる」をクリックすると画面の中にユニティちゃんが現れるので、アナグリフ（赤青）メガネをかけると自由な角度からユニティちゃんが動いてるのが3Dで見られます。
@@ -67,29 +69,3 @@ QE TG ZC…左右、上下、傾き回転（Ctrlと同時押しで90度回転）
 キャリブレーションをクリックするとカウントダウンが始まるので、カメラ真正面50cmの場所に目が来るように待機すれば自動で数値が設定されます。
 
 <figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
-
-#### 正確な画面サイズの入力
-
-もしもあなたのPCが一般的な16:9の画面ではなかったり、カメラが画面中央のすぐ上に無い場合は、正しく映像が表示されないので、ユニティちゃんライブステージ！アプリで以下を設定してください。
-
-ユニティちゃんライブステージのウインドウでF12キーを押すと設定画面が開かれます。
-
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
-
-「次へ」をクリックします。
-
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
-
-「カメラ」をクリックすると、カメラトラッキングのキャリブレーション画面が開かれます。
-
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
-
-「上級モード」をチェックします。
-
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
-
-使用しているモニターのサイズを計測し、画面サイズにメートル単位で入力します。\
-カメラ位置はドロップダウンで画面に対するカメラの位置を上下左右中央（Top, Bottom, Left, Right, Center）から選択し、そこに対する座標をメートル単位で入力します。XYZはそれぞれ、画面に向かって右、上、奥方向が正方向になります。\
-カメラ角度はカメラが画面に対して垂直でない場合に入力してください（通常は変更する必要はありません）。
-
-入力して「OK」→「閉じる」をクリックすると正しく見えるはずです。
