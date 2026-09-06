@@ -67,7 +67,7 @@ No 3D…平面表示されます。右側のドロップダウンで右目映像
 
 キャリブレーション画面で「カメラ」をクリックすると、カメラトラッキングのキャリブレーション画面が開かれます（メイン設定画面の「カメラ」タブも同じ項目を内包しています）。
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 カメラが画面中央のすぐ上に存在し真正面を向いていて、PC画面が16:9のアスペクト比の場合は、この画面で画面のインチ数を入力しOKをクリックすれば設定は完了です。
 
@@ -83,8 +83,6 @@ No 3D…平面表示されます。右側のドロップダウンで右目映像
 ## トラッカー設定画面
 
 キャリブレーション画面で「トラッカー」をクリックするとトラッカー設定画面が開きます。
-
-
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 

@@ -10,8 +10,8 @@ Portalgraphは3Dプロジェクター/3Dテレビ/通常モニター＋赤青メ
 * Portalgraphランタイムのインストール [https://portalgraph.booth.pm/items/6256749](https://portalgraph.booth.pm/items/6256749)
 * Unity 6以降
 * 赤青3Dメガネ\
-  &#x20;[https://www.stereoeye.jp/shop/index.html](http://toy-box.shop-pro.jp/?pid=4563970) (推奨)\
-  &#x20;[https://amzn.asia/d/438qF7P](https://amzn.asia/d/438qF7P)
+  [https://www.stereoeye.jp/shop/index.html](http://toy-box.shop-pro.jp/?pid=4563970) (推奨)\
+  [https://amzn.asia/d/438qF7P](https://amzn.asia/d/438qF7P)
 
 ## アセット使用手順
 
@@ -93,9 +93,7 @@ Portalgraphアプリケーションの実行にはPortalgraphランタイムの�
 
 作成したアプリの画面に戻ると、初めてPortalgraphを実行する場合は、自動で設定画面が「カメラ」タブの状態で表示されます（初めてではない場合はF12を押して「カメラ」タブを選択）。画面サイズを入力すれば設定完了です（フォーカスを外すと自動で反映されるので、ボタンを押す必要はありません）。設定画面を閉じます。
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
@@ -115,4 +113,3 @@ QE TG ZC…左右、上下、傾き回転（Ctrlと同時押しで90度回転）
 * カメラトラッキングアプリが動かない場合は、最新版のVC++ランタイムをインストールしてください。 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 * 何も表示されない場合\
   画面に配置したCubeのサイズは(0.1, 0.1, 0.1)になっていますか？Portalgraphは実際のサイズで表示するので、画面より大きい物体は表示できません。1キーを押すとスケールが縮小されるので、試してみてください。
-

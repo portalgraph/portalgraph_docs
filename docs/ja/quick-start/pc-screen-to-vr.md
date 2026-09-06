@@ -11,8 +11,8 @@ Portalgraphは画面の大きさ、位置とユーザーの視点を元に映像
 Windows 10以降のPC（GPU搭載、またはIntel Coreシリーズ第10世代以降か同等のCPU）\
 Webカメラ\
 アナグリフ（赤青）3Dメガネ\
-&#x20;　[https://www.stereoeye.jp/shop/index.html](http://toy-box.shop-pro.jp/?pid=4563970) (推奨)\
-&#x20;　[https://amzn.asia/d/438qF7P](https://amzn.asia/d/438qF7P)
+　[https://www.stereoeye.jp/shop/index.html](http://toy-box.shop-pro.jp/?pid=4563970) (推奨)\
+　[https://amzn.asia/d/438qF7P](https://amzn.asia/d/438qF7P)
 
 ## 使用方法
 
@@ -33,19 +33,15 @@ Portalgraphランタイムがインストールされてない場合は、事前
 カメラトラッキングアプリとユニティちゃんライブステージを終了し、VC++ランタイムをインストールして起動し直してください。\
 [https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
-
-
 ### キャリブレーション
 
 Portalgraphは動作するのに画面の大きさと座標が必要なので、キャリブレーションでシステムに入力します。
 
-Portalgraphアプリケーションの初回起動時はカメラトラッキングのキャリブレーション画面が表示されます（表示されない場合は、F12キーを押して設定画面を表示し、「次へ」→「カメラ」をクリックしてください）。
+Portalgraphアプリケーションの初回起動時はカメラトラッキングの設定画面が表示されます（表示されない場合は、F12キーを押して設定画面を表示し「カメラ」タブを選択してください）。画面サイズを入力してください。
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-画面サイズを入力します。
-
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 「閉じる」をクリックすると画面の中にユニティちゃんが現れるので、アナグリフ（赤青）メガネをかけると自由な角度からユニティちゃんが動いてるのが3Dで見られます。
 
@@ -86,7 +82,7 @@ QE TG ZC…左右、上下、傾き回転（Ctrlと同時押しで90度回転）
 
 「カメラ」をクリックすると、カメラトラッキングのキャリブレーション画面が開かれます。
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 「上級モード」をチェックします。
 
@@ -97,12 +93,3 @@ QE TG ZC…左右、上下、傾き回転（Ctrlと同時押しで90度回転）
 カメラ角度はカメラが画面に対して垂直でない場合に入力してください（通常は変更する必要はありません）。
 
 入力して「OK」→「閉じる」をクリックすると正しく見えるはずです。
-
-
-
-
-
-
-
-
-

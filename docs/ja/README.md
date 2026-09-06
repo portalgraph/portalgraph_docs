@@ -1,6 +1,6 @@
 # Portalgraphとは
 
-[English documents is here.](https://app.gitbook.com/s/R4jDeJrvuIogaygztZi7/)
+[English documents is here.](https://app.gitbook.com/o/eAOmbyfeJdMCRvYQloBb/s/R4jDeJrvuIogaygztZi7/)
 
 Portalgraphは、プロジェクターやPC画面でVR空間を楽しむUnity用ソフトウェア開発環境です。ユーザーの動きに合わせて映像が変化することで、スクリーンの中に本当に空間が存在し、上下左右遠近、自由な位置から3Dでその空間を覗き込む体験ができます。
 
@@ -28,11 +28,9 @@ Portalgraphを体験したい人向け
 
 Portalgraphアプリを作ってみたい人向け
 
-{% content-ref url="/broken/pages/MdlNPgidi9qTZbGvNmdV" %}
-[Broken link](/broken/pages/MdlNPgidi9qTZbGvNmdV)
+{% content-ref url="https://app.gitbook.com/s/aJCTlOkQcgkhVMLcuHBm/quick-startke" %}
+[Quick Start（開発者向け）](https://app.gitbook.com/s/aJCTlOkQcgkhVMLcuHBm/quick-startke)
 {% endcontent-ref %}
-
-
 
 Portalgraphはリアルタイムでユーザーの視点を検出し、その視点に合わせた映像を3Dで生成し表示します。\
 これにより、スクリーンの中に空間が存在するように見え、覗き込むことができます。\

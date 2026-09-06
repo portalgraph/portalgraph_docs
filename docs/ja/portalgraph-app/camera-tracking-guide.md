@@ -13,7 +13,7 @@ Portalgraphで制作されたアプリケーションを実行して設定画面
 
 もし、PC内蔵の画面のすぐ上のWebカメラを使用し、一般的な16:9のモニターの場合、カメラタブで画面サイズ（インチ）を入力するだけで設定は完了です（フォーカスを外すと自動で反映されます）。トラッカーアプリの自動起動やトラッカー位置（EyeCenter相当）もこのとき自動で設定されるので、個別に設定する必要はありません。
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
@@ -21,7 +21,7 @@ Portalgraphで制作されたアプリケーションを実行して設定画面
 
 もしもそうではない場合、上級モードをチェックして、画面サイズを手動で入力し、カメラの座標と角度を入力してください。XYZは画面に向かってそれぞれ上、右、奥方向が正方向になります。同じカメラタブ内で3D表示方式（アナグリフ／サイドバイサイド等）も切り替えられますが、通常はアナグリフのままで問題ありません。
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## カメラトラッキングアプリ設定
 
