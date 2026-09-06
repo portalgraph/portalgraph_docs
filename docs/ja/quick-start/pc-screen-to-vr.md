@@ -33,6 +33,14 @@ Portalgraphランタイムがインストールされてない場合は、事前
 カメラトラッキングアプリとユニティちゃんライブステージを終了し、VC++ランタイムをインストールして起動し直してください。\
 [https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
+#### ※カメラの調整
+
+カメラトラッキングアプリは、標準で一般的なWebカメラの視野角（FOV）に合わせて調整されていて、それを元に顔の座標を取得します。もしも大きく異なるFOVのカメラを使用していて右下に表示される座標が現実とズレている場合は、カメラトラッキングアプリをキャリブレーションをしてください。
+
+「キャリブレーション」をクリックするとカウントダウンが始まるので、カメラ真正面50cmの場所に目が来るように待機すれば自動で数値が設定されます。
+
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
 ### キャリブレーション
 
 Portalgraphは動作するのに画面の大きさと座標が必要なので、キャリブレーションでシステムに入力します。
@@ -57,15 +65,3 @@ QE TG ZC…左右、上下、傾き回転（Ctrlと同時押しで90度回転）
 3…スケールリセット
 
 画面のサイズ、傾きに合わせてちょうどいいカメラ位置、角度、スケールに合わせてください。
-
-### ※映像が歪んでる場合は
-
-#### カメラの調整
-
-カメラトラッキングアプリは、標準で一般的なWebカメラの視野角（FOV）に合わせて調整されていますが、もしも大きく異なるFOVのカメラを使用している場合はカメラトラッキングアプリをキャリブレーションをしてください。
-
-<figure><img src="../.gitbook/assets/camerapg.png" alt=""><figcaption></figcaption></figure>
-
-キャリブレーションをクリックするとカウントダウンが始まるので、カメラ真正面50cmの場所に目が来るように待機すれば自動で数値が設定されます。
-
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
