@@ -21,6 +21,9 @@ Portalgraphランタイムがインストールされてない場合は、事前
 次に、Portalgraph使用アプリをダウンロードし、解凍し、実行します。\
 [https://booth.pm/ja/items/6253714](https://booth.pm/ja/items/6253714)
 
+今回はサンプルとして、ユニティちゃんライブステージ！ for Portalgraphを使用します。ダウンロードし、解凍し、UnityChan CRS.exeをダブルクリックして実行します。\
+[ユニティちゃんライブステージ！ for Portalgraph](https://portalgraph.booth.pm/items/3234733)
+
 #### 初回設定
 
 スタートメニューの検索窓に「Tracker Portalgraph」と入力し、VIVEトラッカー用トラッキングアプリを起動します。初回起動時に以下のように設定の修正を促すメッセージが表示されます。VIVEトラッカーは標準でVRヘッドセットとセットで使うように設定されているため、VRヘッドセット無しで使用するための設定の変更が必要になります。「修正する」をクリックした後、画面のメッセージに従って、SteamVRを終了してください。
@@ -29,36 +32,35 @@ Portalgraphランタイムがインストールされてない場合は、事前
 
 #### 画面設定
 
-Portalgraphアプリケーションを起動し、実行中にF12キーを押すと設定画面が開きます。
+Portalgraphアプリケーションを起動し、実行中にF12キーを押すと設定画面が開きます。「トラッカー/カスタム」タブを選択してください。
 
-<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-右側のビュー数にPortalgraph画面を表示する画面数を入力し、スクリーンに表示したい画面番号を入力します（１はメインディスプレイ、2以降がサブディスプレイ。実行環境に依存します）。
+左上のトラッカー位置は「Forehead（額）」、左中央のトラッカーアプリ自動起動は「VIVE Tracker」を選択してください。
 
-<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+右側のビュー数にPortalgraph画面を表示する画面数を入力し、スクリーンに表示したい画面番号を入力します（１はメインディスプレイ、2以降がサブディスプレイ。実行環境に依存します）。<br>
+
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 **「適用」をクリックすることで値は反映されます。クリックしないと反映されません。使用するスクリーンが変わった場合、アプリケーションの再起動が必要になります。再起動後、再びF12を押してこの画面を開いてください。**
 
 トラッカー位置は、VIVEトラッカーを取り付ける場所を指定します。通常はForehead（額）をおすすめします。トラッカーは赤の矢印がある方向にUSB端子が向くように取り付けてください。
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 トラッカーアプリ自動起動にチェックが付いているとアプリ起動時に自動でトラッカーアプリが起動します。OpenVRを選択すると、自動でVIVEトラッカー用トラッキングアプリが起動するようになります。
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 「次へ」をクリックしてキャリブレーション画面を開きます。
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-\
 3Dドロップダウンから、使用する3Dプロジェクター、3Dテレビ等に合った3D方式を選択してください。
 
 <figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
-
-
 
 * Side-By-Side・・・左右分割3D
 * Top-And-Bottom・・・上下分割3D
